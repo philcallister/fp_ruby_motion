@@ -8,7 +8,7 @@ class InitialTableViewController < UITableViewController
     [ 
       { :menu => 'Words', :func => :load_view, :params => { :id => 'WordSegue'}, :deselect => true },
       { :menu => 'Questions', :func => :load_view, :params => { :id => 'QuestionSegue'}, :deselect => true },
-      { :menu => 'Answers', :func => :load_view, :params => { :id => 'AnswerSegue'}, :deselect => true },
+      { :menu => 'Answers', :func => :load_view, :params => { :id => 'AnswerSegue'}, :deselect => true }
     ]
   end
 
