@@ -1,7 +1,7 @@
 FastPencil
 =========
 
-Hi! Thanks for taking the time to look at my RubyMotion solution.  This is the FastPencil exercise I was given, and here are the original requirements with some formatting:
+Hi! Thanks for taking the time to look at my RubyMotion, native iOS solution.  This is the FastPencil exercise I was given, and here are the original requirements with some formatting:
 
 >Requirements
 > - Given a list of words, generate two output
