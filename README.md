@@ -66,7 +66,8 @@ __models/words.rb__ class.  All output generated from the original input file is
 
 Run It...
 --------------
-The app can be run with the iOS 7 simulator or on an iOS 7.0 device.
+The app can be run with the iOS 7 simulator or on an iOS 7.0 device.  To run on a device, your personal provisioning
+profiles would need to be added to the __Rakefile__.
 
 ```sh
 rake
