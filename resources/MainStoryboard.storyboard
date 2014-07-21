@@ -230,7 +230,7 @@
             </objects>
             <point key="canvasLocation" x="-3478" y="-4769"/>
         </scene>
-        <!--Question Table View Controller-->
+        <!--Question Table View Controller - Questions-->
         <scene sceneID="axy-js-a0T">
             <objects>
                 <tableViewController storyboardIdentifier="QuestionTableView" id="L0e-15-QCX" customClass="QuestionTableViewController" sceneMemberID="viewController">
@@ -265,13 +265,13 @@
                             <outlet property="delegate" destination="L0e-15-QCX" id="Ob0-es-sk0"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="OMv-Yq-0KM"/>
+                    <navigationItem key="navigationItem" title="Questions" id="OMv-Yq-0KM"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jCn-ZR-OLl" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-3037" y="-4769"/>
         </scene>
-        <!--Answer Table View Controller-->
+        <!--Answer Table View Controller - Answers-->
         <scene sceneID="uhX-aC-gr3">
             <objects>
                 <tableViewController id="i8z-Wj-5fD" customClass="AnswerTableViewController" sceneMemberID="viewController">
@@ -306,7 +306,7 @@
                             <outlet property="delegate" destination="i8z-Wj-5fD" id="mvB-jz-Gyt"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="ghh-Zp-P6C"/>
+                    <navigationItem key="navigationItem" title="Answers" id="ghh-Zp-P6C"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EFr-Wb-DYn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
