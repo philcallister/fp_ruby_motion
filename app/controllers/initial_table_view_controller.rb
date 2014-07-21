@@ -50,13 +50,6 @@ class InitialTableViewController < UITableViewController
 
 
   ############################################################################
-  # Actions
-
-  def addPressed
-  end
-
-
-  ############################################################################
   # Internal...can't make private or can't be called
 
   def load_view(params=nil)
