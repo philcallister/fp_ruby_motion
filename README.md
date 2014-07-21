@@ -46,6 +46,7 @@ Tested with ==> Ruby 2.0.0p195 / RubyMotion 2.30 / iOS 7.1.1
 
 Installation
 --------------
+RubyMotion is __required__ to build this app, and must be installed prior to anything else.
 ```sh
 git clone https://github.com/philcallister/fp_ruby_motion.git
 gem install bundler
